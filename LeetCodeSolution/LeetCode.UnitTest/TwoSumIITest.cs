@@ -5,7 +5,7 @@ using LeetCode;
 namespace LeetCode.UnitTest
 {
     [TestClass]
-    public class UnitTest1
+    public class TwoSumIITest
     {
         [TestMethod]
         public void TestMethodTwoSumII()

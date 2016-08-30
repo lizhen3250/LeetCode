@@ -53,7 +53,8 @@
   </Choose>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="UnitTest1.cs" />
+    <Compile Include="TwoSumIITest.cs" />
+    <Compile Include="MoveZeroesTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\LeetCode\LeetCode.csproj">
