@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="BestTimeToBuyAndSellStockII.cs" />
     <Compile Include="ContainsDuplicate.cs" />
+    <Compile Include="FindTheDuplicateNumber.cs" />
     <Compile Include="MajorityElement.cs" />
     <Compile Include="MissingNumber.cs" />
     <Compile Include="MoveZeroes.cs" />

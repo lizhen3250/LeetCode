@@ -60,6 +60,7 @@
     <Compile Include="MajorityElementTest.cs" />
     <Compile Include="ContainDuplicateTest.cs" />
     <Compile Include="MissingNumberTest.cs" />
+    <Compile Include="FindTheDuplicateNumberTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\LeetCode\LeetCode.csproj">
