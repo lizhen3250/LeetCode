@@ -59,6 +59,7 @@
     <Compile Include="BestTimeToBuyAndSellStockTest.cs" />
     <Compile Include="MajorityElementTest.cs" />
     <Compile Include="ContainDuplicateTest.cs" />
+    <Compile Include="MissingNumberTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\LeetCode\LeetCode.csproj">
