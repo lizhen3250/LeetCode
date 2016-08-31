@@ -58,6 +58,7 @@
     <Compile Include="ProductOfArrayExceptSelfTest.cs" />
     <Compile Include="BestTimeToBuyAndSellStockTest.cs" />
     <Compile Include="MajorityElementTest.cs" />
+    <Compile Include="ContainDuplicateTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\LeetCode\LeetCode.csproj">
