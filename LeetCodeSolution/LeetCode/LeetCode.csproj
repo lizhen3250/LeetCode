@@ -40,6 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BestTimeToBuyAndSellStockII.cs" />
     <Compile Include="MoveZeroes.cs" />
     <Compile Include="ProductOfArrayExcepSelf.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
