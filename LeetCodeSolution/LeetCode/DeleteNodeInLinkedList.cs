@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace LeetCode
 {
-    class DeleteNodeInLinkedList
+    public class DeleteNodeInLinkedList
     {
+        public void DeleteNode(ListNode node)
+        {
+            node.val = node.next.val;
+            node.next = node.next.next;
+        }
     }
 }
