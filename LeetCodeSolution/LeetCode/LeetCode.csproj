@@ -51,6 +51,7 @@
     <Compile Include="OddEvenList.cs" />
     <Compile Include="ProductOfArrayExcepSelf.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RemoveDuplicatesFromSortedList.cs" />
     <Compile Include="ReverseLinkedList.cs" />
     <Compile Include="TwoSumII.cs" />
   </ItemGroup>
