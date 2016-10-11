@@ -46,6 +46,7 @@
     <Compile Include="FindTheDuplicateNumber.cs" />
     <Compile Include="ListNode.cs" />
     <Compile Include="MajorityElement.cs" />
+    <Compile Include="MergeTwoSortedList.cs" />
     <Compile Include="MissingNumber.cs" />
     <Compile Include="MoveZeroes.cs" />
     <Compile Include="OddEvenList.cs" />
