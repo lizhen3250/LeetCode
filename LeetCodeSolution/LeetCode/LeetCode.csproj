@@ -45,6 +45,7 @@
     <Compile Include="DeleteNodeInLinkedList.cs" />
     <Compile Include="FindTheDuplicateNumber.cs" />
     <Compile Include="LinkedListCycle.cs" />
+    <Compile Include="LinkedListCycleII.cs" />
     <Compile Include="ListNode.cs" />
     <Compile Include="MajorityElement.cs" />
     <Compile Include="MergeTwoSortedList.cs" />
