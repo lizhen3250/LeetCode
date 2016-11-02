@@ -57,6 +57,8 @@
     <Compile Include="RemoveDuplicatesFromSortedList.cs" />
     <Compile Include="RemoveNthNodeFromEndOfList.cs" />
     <Compile Include="ReverseLinkedList.cs" />
+    <Compile Include="SearchInsertPosition.cs" />
+    <Compile Include="SortColors.cs" />
     <Compile Include="SwapNodesInPairs.cs" />
     <Compile Include="TwoSumII.cs" />
   </ItemGroup>
