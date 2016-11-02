@@ -43,6 +43,7 @@
     <Compile Include="BestTimeToBuyAndSellStockII.cs" />
     <Compile Include="ContainsDuplicate.cs" />
     <Compile Include="DeleteNodeInLinkedList.cs" />
+    <Compile Include="FindMinimumInRotatedSortedArrayII.cs" />
     <Compile Include="FindTheDuplicateNumber.cs" />
     <Compile Include="LinkedListCycle.cs" />
     <Compile Include="LinkedListCycleII.cs" />
